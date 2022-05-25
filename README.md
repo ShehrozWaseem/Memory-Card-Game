@@ -1,5 +1,5 @@
 # Live Demo
-https://beautiful-marshmallow-64f754.netlify.app/
+https://beautiful-marshmallow-64f754.netlify.app/ .\
 Click the cards to make a match in a pair that will be marked as a correct hit, You have to make 6 correct hits to win the game. Whenever you clicked New games tha card are re-shuffled and you can start to make new matchs. This project is created using React and its all about state management. 
 
 # Getting Started with Create React App
